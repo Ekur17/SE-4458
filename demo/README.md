@@ -1,3 +1,7 @@
+## Video Link
+
+https://drive.google.com/file/d/10LSxfEODqTzsaDtl-Qi97zzLeivwe9qj/view?usp=sharing
+
 ## Airbnb_Database
 
 The project aims to create an Airbnb-like database using Spring Boot framework and JWT security. It involves developing a web application that allows users to list and book properties for short-term rentals. The project will implement user authentication and authorization using JSON Web Tokens (JWT) for secure access to the application.
